@@ -3,9 +3,9 @@ input{
     height: 35px;
     margin: 20px;
     margin-top: 0px;
-    background-color: #black;
-    text-decoration: #white;
-    color: #white;
+    background-color: black;
+    text-decoration: white;
+    color: white;
 }
 
 button{
